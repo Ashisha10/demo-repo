@@ -1,2 +1,3 @@
-# demo-repo
-Trying out new things.
+# demo
+
+I just made a repository!
